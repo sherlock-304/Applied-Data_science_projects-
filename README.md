@@ -1,4 +1,4 @@
-# Applied-Data_science_projects
+# Applied-Data science projects
 
 ## Project 1:
 ### Apartment Price Prediction – Mexico City 🏙️
